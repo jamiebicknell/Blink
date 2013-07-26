@@ -11,9 +11,9 @@ The following is required in order for PHP to communicate with the command link 
 1. Open Terminal.app and type `sudo visudo` then enter you password
 2. Navigate to the `# User privilege specification` section and hit `i` to insert
 3. Type `nobody ALL=NOPASSWD: /blink1-tool`
-(`nobody` was the username my PHP was accessing the command line with. To find yours just run the following in your PHP script `echo exec('whoami');`
+(`nobody` was the username my PHP was accessing the command line with. To find yours just run the following in your PHP script `echo exec('whoami');`)
 4. Hit ESC, then type `:wq` - If it says there is an error, hit `e` and fix it
-5. Place the blink1-tool in the `/` directory ([available here](http://thingm.com/products/blink-1.html))
+5. Place the [blink1-tool](http://thingm.com/products/blink-1.html) in the `/` directory 
 
 ## Example Usage
 
