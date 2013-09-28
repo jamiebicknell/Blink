@@ -30,5 +30,3 @@ if(Blink::test()) {
 // Blink(1) testing after
 $blink = Blink::send('#FFF,2000');
 echo ($blink) ? 'Sent' : 'Fail';
-
-?>
