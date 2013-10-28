@@ -1,0 +1,16 @@
+{
+    "name": "jamiebicknell/PHP-Blink",
+    "description": "PHP class to communicate with the blink(1) command line tool",
+    "keywords": ["blink(1)","blink","php"],
+    "homepage": "http://github.com/jamiebicknell/PHP-Blink",
+    "license": "Zlib",
+    "authors": [
+        {
+            "name": "Jamie Bicknell",
+            "homepage": "http://www.jamiebicknell.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
