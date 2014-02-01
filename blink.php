@@ -1,5 +1,12 @@
 <?php
 
+/*
+Title:      PHP Blink
+URL:        http://github.com/jamiebicknell/PHP-Blink
+Author:     Jamie Bicknell
+Twitter:    @jamiebicknell
+*/
+
 class Blink {
     
     public static $path = 'sudo /blink1-tool';
