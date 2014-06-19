@@ -1,12 +1,12 @@
 {
-    "name": "jamiebicknell/PHP-Blink",
+    "name": "jamiebicknell/Blink",
     "description": "PHP class to communicate with the blink(1) command line tool",
     "keywords": [
         "blink(1)",
         "blink",
         "php"
     ],
-    "homepage": "http://github.com/jamiebicknell/PHP-Blink",
+    "homepage": "http://github.com/jamiebicknell/Blink",
     "license": "MIT",
     "authors": [
         {

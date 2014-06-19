@@ -1,4 +1,4 @@
-# PHP Blink(1)
+# Blink(1) PHP Class
 
 This is a PHP class to communicate with the blink(1) command line tool, available [here](http://thingm.com/products/blink-1.html)
 
@@ -63,4 +63,4 @@ echo ($blink) ? 'Sent' : 'Fail';
 
 ##License
 
-PHP Blink(1) is licensed under the [MIT license](http://opensource.org/licenses/MIT), see [LICENSE.md](https://github.com/jamiebicknell/PHP-Blink/blob/master/LICENSE.md) for details.
+Blink is licensed under the [MIT license](http://opensource.org/licenses/MIT), see [LICENSE.md](https://github.com/jamiebicknell/PHP-Blink/blob/master/LICENSE.md) for details.
