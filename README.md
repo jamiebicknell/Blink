@@ -63,4 +63,4 @@ echo ($blink) ? 'Sent' : 'Fail';
 
 ##License
 
-Blink is licensed under the [MIT license](http://opensource.org/licenses/MIT), see [LICENSE.md](https://github.com/jamiebicknell/PHP-Blink/blob/master/LICENSE.md) for details.
+Blink is licensed under the [MIT license](http://opensource.org/licenses/MIT), see [LICENSE.md](https://github.com/jamiebicknell/Blink/blob/master/LICENSE.md) for details.
