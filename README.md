@@ -60,3 +60,7 @@ echo ($blink) ? 'Sent' : 'Fail';
 * [Blink(1) by ThumbM](http://thingm.com/products/blink-1.htm)
 * [Blink(1) API Documentation](https://github.com/todbot/blink1/tree/master/docs)
 * [BrandColours](http://brandcolors.net) for finding the hex colour for the service/API you are displaying an alert for
+
+##License
+
+PHP Blink(1) is licensed under the [MIT license](http://opensource.org/licenses/MIT), see [LICENSE.md](https://github.com/jamiebicknell/PHP-Blink/blob/master/LICENSE.md) for details.
