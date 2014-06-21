@@ -9,7 +9,6 @@ Twitter:    @jamiebicknell
 
 class Blink
 {
-    
     public static $path = 'sudo /blink1-tool';
     public static $fade = 50;
     
