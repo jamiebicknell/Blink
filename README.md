@@ -61,6 +61,6 @@ echo ($blink) ? 'Sent' : 'Fail';
 * [Blink(1) API Documentation](https://github.com/todbot/blink1/tree/master/docs)
 * [BrandColours](http://brandcolors.net) for finding the hex colour for the service/API you are displaying an alert for
 
-##License
+## License
 
 Blink is licensed under the [MIT license](http://opensource.org/licenses/MIT), see [LICENSE.md](https://github.com/jamiebicknell/Blink/blob/master/LICENSE.md) for details.
